@@ -1,0 +1,6 @@
+export { HRLayout } from './hr-layout'
+export { EmployeeList } from './employees/employee-list'
+export { EmployeeDetail } from './employees/employee-detail'
+export { AttendanceList } from './attendance/attendance-list'
+export { LeaveList } from './leave/leave-list'
+export { PayrollList } from './payroll/payroll-list'
